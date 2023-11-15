@@ -1,6 +1,6 @@
 # clase_04
 ## Modelado con Objetos
-[!Clase 4](./recursos/caratulas_java_04.jpg)
+![Clase 4](./recursos/caratulas_java_04.jpg)
 # Patrones de Diseño
 Dado el siguiente contexto, diseñe e implemente una solución en el paradigma Orientado a
 Objetos en Java que lo resuelva. Además, realice los tests de los casos de prueba propuestos.
